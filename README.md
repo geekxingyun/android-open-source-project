@@ -5,6 +5,6 @@ Collection of outstanding projects for Android
 
    项目地址： https://github.com/tsy12321/PayAndroid
 
-2. Android 获取IP地址
+2. Android 获取本机IP地址
 
    博文地址： http://blog.csdn.net/u010248450/article/details/51470558
