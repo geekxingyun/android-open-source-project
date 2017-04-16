@@ -10,6 +10,6 @@ Collection of outstanding projects for Android
    博文地址： http://blog.csdn.net/u010248450/article/details/51470558
 3. Android Google 官方推荐图片加载库
  
-   项目描述：An image loading and caching library for Android focused on smooth scrolling
-   
-   项目地址：https://github.com/bumptech/glide
+    项目描述：An image loading and caching library for Android focused on smooth scrolling
+    
+    项目地址：https://github.com/bumptech/glide
