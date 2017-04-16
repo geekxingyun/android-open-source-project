@@ -13,3 +13,5 @@ Collection of outstanding projects for Android
     项目描述：An image loading and caching library for Android focused on smooth scrolling
     
     项目地址：https://github.com/bumptech/glide
+     
+    学习教程：https://mrfu.me/2016/02/27/Glide_Getting_Started/
