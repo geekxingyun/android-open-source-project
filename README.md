@@ -15,3 +15,12 @@ Collection of outstanding projects for Android
     项目地址：https://github.com/bumptech/glide
      
     学习教程：https://mrfu.me/2016/02/27/Glide_Getting_Started/
+ 
+ 4. Android 空布局 android-empty-layout
+ 
+    项目描述：A library for showing different types of layouts when a list view is empty
+ 
+    项目地址：https://github.com/alamkanak/android-empty-layout
+    
+    
+    
