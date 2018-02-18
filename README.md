@@ -8,6 +8,7 @@ Collection of outstanding projects for Android
  2.Android 获取本机IP地址
 
    博文地址： http://blog.csdn.net/u010248450/article/details/51470558
+   
  3.Android Google 官方推荐图片加载库
  
     项目描述：An image loading and caching library for Android focused on smooth scrolling
@@ -27,4 +28,9 @@ Collection of outstanding projects for Android
   项目描述：Android自定义相册，完全仿微信UI，实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能。
   
   项目地址: https://github.com/jeasonlzy/ImagePicker
+  
+ 6.OkayHttp
+ 
+ 项目描述：适用 Android ,Java 应用程序的 HTTP&&HTTP/2 请求库
+ 项目地址：http://square.github.io/okhttp/
  
