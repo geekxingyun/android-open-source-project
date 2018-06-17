@@ -43,5 +43,10 @@ Collection of outstanding projects for Android
  
  博文地址:https://www.cnblogs.com/xingyyy/p/3293228.html
  
+ 9. 前后端API交互如何保证数据安全性？
+ 
+ https://mp.weixin.qq.com/s/c2tU6ozqiToF2YTj5o3x4Q
+ 
+ 
  
  
