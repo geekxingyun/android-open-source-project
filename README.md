@@ -35,7 +35,7 @@ Collection of outstanding projects for Android
 
  项目地址：http://square.github.io/okhttp/
  
- 7. Android Spinner 控件详解
+ 7.  Android Spinner 控件详解
  
  博文地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html
  
