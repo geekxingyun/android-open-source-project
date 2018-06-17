@@ -39,3 +39,9 @@ Collection of outstanding projects for Android
  
  博文地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html
  
+ 8. Android笔记之AsyncTask
+ 
+ 博文地址:https://www.cnblogs.com/xingyyy/p/3293228.html
+ 
+ 
+ 
