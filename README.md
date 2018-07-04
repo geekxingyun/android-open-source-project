@@ -53,6 +53,10 @@ Collection of outstanding projects for Android
  
  项目源码：https://github.com/RuffianZhong/RTextView
  
+ 11. 底部Tab导航绘制框架
+ 
+ 项目源码：https://github.com/xubinhong/BottomBar
+ 
  
  
  
