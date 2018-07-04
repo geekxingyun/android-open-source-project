@@ -47,6 +47,12 @@ Collection of outstanding projects for Android
  
  博文地址: https://mp.weixin.qq.com/s/c2tU6ozqiToF2YTj5o3x4Q
  
+ 10. Android 自定义view-如何设置TextView drawableLeft 图片大小
+ 
+ 博文地址：https://blog.csdn.net/u014702653/article/details/52304656
+ 
+ 项目源码：https://github.com/RuffianZhong/RTextView
+ 
  
  
  
