@@ -57,6 +57,8 @@ Collection of outstanding projects for Android
  
  项目源码：https://github.com/xubinhong/BottomBar
  
+ 12. Android View绑定框架
  
+ 项目源码: https://github.com/avast/android-butterknife-zelezny
  
  
