@@ -61,4 +61,12 @@ Collection of outstanding projects for Android
  
  项目源码: https://github.com/avast/android-butterknife-zelezny
  
+ 13. Android屏幕适配全攻略（最权威的官方适配指导）
+ 
+ http://www.cocoachina.com/android/20151030/13971.html
+ 
+ 14. Android开发：最全面、最易懂的Android屏幕适配解决方案
+ 
+ https://blog.csdn.net/wangwangli6/article/details/63258270/
+ 
  
