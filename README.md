@@ -71,11 +71,7 @@ Collection of outstanding projects for Android
  
  https://blog.csdn.net/wangwangli6/article/details/63258270/
  
- 15. 头像上传相册选择框架
- 
- https://github.com/jeasonlzy/ImagePicker
- 
- 16. OkhttpUtils
+ 15. OkhttpUtils
  
  https://github.com/hongyangAndroid/okhttputils
  
