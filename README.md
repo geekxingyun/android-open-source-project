@@ -29,7 +29,7 @@ Collection of outstanding projects for Android
   
   项目地址: https://github.com/jeasonlzy/ImagePicker
   
-  快速开发版本:https://github.com/fengyongge/imagepicker
+  无头像裁剪精简版本:https://github.com/fengyongge/imagepicker
   
  6.OkHttp
  
