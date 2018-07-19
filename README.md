@@ -61,7 +61,11 @@ Collection of outstanding projects for Android
  
  12. Android View绑定框架
  
- 项目源码: https://github.com/avast/android-butterknife-zelezny
+ 开源地址:https://github.com/JakeWharton/butterknife
+ 
+ 插件地址: https://github.com/avast/android-butterknife-zelezny
+ 
+ 相关介绍：http://jakewharton.github.io/butterknife/
  
  13. Android屏幕适配全攻略（最权威的官方适配指导）
  
