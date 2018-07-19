@@ -29,6 +29,8 @@ Collection of outstanding projects for Android
   
   项目地址: https://github.com/jeasonlzy/ImagePicker
   
+  快速开发版本:https://github.com/fengyongge/imagepicker
+  
  6.OkHttp
  
  项目描述：适用 Android ,Java 应用程序的 HTTP&&HTTP/2 请求库
