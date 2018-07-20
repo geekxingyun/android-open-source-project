@@ -26,8 +26,10 @@ Collection of outstanding projects for Android
  5.图片选择器 ImagePicker
  
   项目描述：Android自定义相册，完全仿微信UI，实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能。
+ 
+  项目地址：（推荐,简单易用，功能强大）https://github.com/LuckSiege/PictureSelector
   
-  项目地址: https://github.com/jeasonlzy/ImagePicker
+  项目地址:(当前不再维护,存在bug) https://github.com/jeasonlzy/ImagePicker
   
   无头像裁剪精简版本:https://github.com/fengyongge/imagepicker
   
