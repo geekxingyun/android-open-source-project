@@ -29,10 +29,6 @@ Collection of outstanding projects for Android
  
   项目地址：（推荐,简单易用，功能强大）https://github.com/LuckSiege/PictureSelector
   
-  项目地址:(当前不再维护,存在bug) https://github.com/jeasonlzy/ImagePicker
-  
-  无头像裁剪精简版本:https://github.com/fengyongge/imagepicker
-  
  6.OkHttp
  
  项目描述：适用 Android ,Java 应用程序的 HTTP&&HTTP/2 请求库
