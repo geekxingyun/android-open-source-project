@@ -41,6 +41,10 @@ Collection of outstanding projects for Android
  
  项目地址:https://github.com/square/okhttp
  
+ 项目名称：OkhttpUtils
+ 
+ 项目地址：https://github.com/hongyangAndroid/okhttputils
+ 
  7.  Android Spinner 控件详解
  
  博文地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html
@@ -79,8 +83,9 @@ Collection of outstanding projects for Android
  
  https://blog.csdn.net/wangwangli6/article/details/63258270/
  
- 15. OkhttpUtils
+ 15. PDF文件预览库
  
- https://github.com/hongyangAndroid/okhttputils
+ https://github.com/barteksc/AndroidPdfViewer
  
+ 关于Assets 目录：https://blog.csdn.net/u011710991/article/details/52219648
  
