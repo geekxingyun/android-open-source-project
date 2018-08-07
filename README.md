@@ -88,3 +88,7 @@ Collection of outstanding projects for Android
 16. 高效日期时间选择控件
 
 https://github.com/codbking/PickTime
+
+17. Android 上一个强大且全面的图片加载器---图片缩放
+
+https://github.com/panpf/sketch
