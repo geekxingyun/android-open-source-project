@@ -32,6 +32,7 @@ Collection of outstanding projects for Android
   预览网络图片：
   
   <code>
+   
    List<LocalMedia> selectPictureList=new ArrayList<>();
  
    LocalMedia localMedia=new LocalMedia();
