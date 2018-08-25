@@ -33,12 +33,18 @@ Collection of outstanding projects for Android
   
   <code>
    List<LocalMedia> selectPictureList=new ArrayList<>();
+ 
    LocalMedia localMedia=new LocalMedia();
+   
    localMedia.setPath(factory_Area_map_picure);
+   
    localMedia.setPosition(0);
+   
    selectPictureList.add(localMedia);    
+   
    PictureSelector.create(DeviceDetailActivity.this).themeStyle(R.style.picture_QQ_style).openExternalPreview(0,selectPictureList);
-   </code>
+  
+  </code>
   
  6.OkHttp
  
