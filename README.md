@@ -29,6 +29,17 @@ Collection of outstanding projects for Android
  
   项目地址：（推荐,简单易用，功能强大）https://github.com/LuckSiege/PictureSelector
   
+  预览网络图片：
+  
+  <code>
+   List<LocalMedia> selectPictureList=new ArrayList<>();
+   LocalMedia localMedia=new LocalMedia();
+   localMedia.setPath(factory_Area_map_picure);
+   localMedia.setPosition(0);
+   selectPictureList.add(localMedia);    
+   PictureSelector.create(DeviceDetailActivity.this).themeStyle(R.style.picture_QQ_style).openExternalPreview(0,selectPictureList);
+   </code>
+  
  6.OkHttp
  
  项目描述：适用 Android ,Java 应用程序的 HTTP&&HTTP/2 请求库
