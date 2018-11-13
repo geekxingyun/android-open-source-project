@@ -57,6 +57,8 @@ Collection of outstanding projects for Android
  
  项目名称：OkhttpUtils
  
+ 使用介绍：https://blog.csdn.net/lmj623565791/article/details/47911083
+ 
  项目地址：https://github.com/hongyangAndroid/okhttputils
  
  7.  Android Spinner 控件详解
