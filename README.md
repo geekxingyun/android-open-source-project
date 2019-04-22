@@ -117,9 +117,9 @@ https://github.com/panpf/sketch
 
 https://github.com/scwang90/SmartRefreshLayout
 
-19. 消息红点提示
+19. 控件消息红点提示
 
-https://github.com/stefanjauker/BadgeView
+https://github.com/qstumn/BadgeView
 
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
