@@ -121,6 +121,13 @@ https://github.com/scwang90/SmartRefreshLayout
 
 https://github.com/qstumn/BadgeView
 
+20. 条码扫描器项目
+
+> 条码扫描器可以使用手机的相机来扫描条码，还可以查询产品的信息、价格和评论
+> 它还能扫描二维码。二维码也可以包含超链接、联系方式等信息。
+
+[https://github.com/zxing/zxing](https://github.com/zxing/zxing)
+
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
 ---
