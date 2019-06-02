@@ -128,6 +128,10 @@ https://github.com/qstumn/BadgeView
 
 [https://github.com/zxing/zxing](https://github.com/zxing/zxing)
 
+21.腾讯浏览服务 使用腾讯浏览器内核开发Android应用
+
+https://x5.tencent.com/
+
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
 ---
