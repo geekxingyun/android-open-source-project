@@ -132,6 +132,10 @@ https://github.com/qstumn/BadgeView
 
 https://x5.tencent.com/
 
+22. 新浪SDK
+
+https://github.com/sinaweibosdk/weibo_android_sdk
+
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
 ---
