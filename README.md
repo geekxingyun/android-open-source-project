@@ -140,6 +140,9 @@ https://github.com/sinaweibosdk/weibo_android_sdk
 
 https://mvnrepository.com/artifact/com.liulishuo.filedownloader
 
+24. Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略
+
+https://github.com/Curzibn/Luban
 
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
