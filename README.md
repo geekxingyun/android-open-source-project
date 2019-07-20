@@ -148,6 +148,15 @@ https://github.com/Curzibn/Luban
 
 https://github.com/crazyandcoder/citypicker
 
+26.EventBus Android 消息订阅
+
+推荐理由: 比如Android版本升级需要由服务器推送给android,然后触发更新方法,使用它就可以快速实现
+
+官网：http://greenrobot.org/eventbus/
+
+GitHub 地址:https://github.com/greenrobot/EventBus
+
+
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
 
 ---
