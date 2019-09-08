@@ -101,9 +101,11 @@ Collection of outstanding projects for Android
  
  15. PDF文件预览库
  
- https://github.com/barteksc/AndroidPdfViewer
+PDF 预览库一： https://github.com/barteksc/AndroidPdfViewer
  
  关于Assets 目录：https://blog.csdn.net/u011710991/article/details/52219648
+ 
+ PDF 预览库二： https://github.com/voghDev/PdfViewPager
  
 16. 高效日期时间选择控件
 
@@ -155,6 +157,7 @@ https://github.com/crazyandcoder/citypicker
 官网：http://greenrobot.org/eventbus/
 
 GitHub 地址:https://github.com/greenrobot/EventBus
+
 
 
 > 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
