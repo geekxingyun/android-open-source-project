@@ -164,10 +164,6 @@ GitHub 地址:https://github.com/greenrobot/EventBus
 
 ---
 
-# 免费加入我的知识星球
-
-<p><a href="https://github.com/geekxingyun/SpringBootBestPracticesSample/blob/master/resources/images/my_world.png?raw=true"> <img src="https://github.com/geekxingyun/SpringBootBestPracticesSample/blob/master/resources/images/my_world.png?raw=true" width="253" height="340"><a><p>
-
 # 联系我
 
 > QQ：2864438285　
