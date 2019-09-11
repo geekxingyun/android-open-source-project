@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <meta charset="UTF-8"/>
+</head>
+<script>
+        function callAndroid(){
+            test.sendToAndroid("js调用了android中的sendToAndroid方法");
+        }
+        function callJS(){
+             alert("alert message From JS");
+        }
+    </script>
+<body>
+
+
+<div align="center">
+    <p>
+        <input type="button" value="HTML上点击按钮显示Android Toast" onclick="callAndroid()"/>
+    </p>
+    <p>
+        <input type="button" value="HTML上点击按钮显示JS弹窗" onclick="callJS()"/>
+    </p>
+</div>
+
+</body>
+
+
+</html>
