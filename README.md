@@ -173,12 +173,7 @@ GitHub 地址:https://github.com/greenrobot/EventBus
 
 # 关注与赞赏
 
-<div align="center">
- <a href="https://github.com/geekxingyun/SpringBootBestPracticesSample/blob/master/resources/images/follow-me-and-award-me.png">
- <img src="https://github.com/geekxingyun/SpringBootBestPracticesSample/blob/master/resources/images/follow-me-and-award-me.png">
- </img>
-  </a>
-</div>
+<div align="center"><img src="https://github.com/geekxingyun/SpringBootBestPracticesSample/blob/master/assets/images/follow-me-and-award-me.png?raw=true"/></div>
 
 # 联系我
 
